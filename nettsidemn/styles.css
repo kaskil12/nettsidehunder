@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(83, 52, 155);
+  }
+  
+  h1 {
+    color: rgb(31, 207, 90);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  button {
+   
+    color :rgb(255, 255, 255);
+    background-color: rgb(71, 165, 42);
+    margin-left: 48%;
+    padding: 0.7%;
+    box-shadow: 3px 3px 5px rgb(50, 192, 192);
+    border-radius: 30%;
+  }
+  #underskrift {
+    color: black;
+  }
+  #bilder { 
+    border-radius: 050%;
+  }
